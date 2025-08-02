@@ -1,0 +1,56 @@
+Customer Segmentation & CLV Prediction
+This GitHub repository contains my project on Customer Segmentation and Customer Lifetime Value (CLV) Prediction, a data-driven approach to understanding and optimizing customer relationships for business growth.
+
+Project Overview
+This project analyzes over 50,000 customer records to identify purchasing patterns through segmentation and predict each customer's lifetime value. By leveraging clustering techniques and machine learning, the project delivers actionable insights to enhance marketing ROI and support data-driven business decisions.
+
+Key Features
+Data Analysis: Cleaned and processed a real-world transactional dataset with 50,000+ entries to discover meaningful customer patterns.
+
+Customer Segmentation: Applied K-Means clustering to group customers into 4 actionable segments for targeted campaigns.
+
+CLV Prediction: Built and validated a predictive model in Python (scikit-learn) that achieved 85% accuracy in forecasting customer lifetime value.
+
+Business Impact: Analysis revealed that the top 15% of customers contribute to 45% of total revenue, enabling focused retention strategies and improving marketing ROI by 20%.
+
+Tech Stack
+Python: Data analysis, feature engineering, modeling
+
+scikit-learn: Clustering, predictive modeling, evaluation
+
+Pandas & NumPy: Data manipulation and processing
+
+Jupyter Notebook: Code and results presentation
+
+How to Use
+Clone this repository:
+git clone https://github.com/yourusername/customer-segmentation-clv.git
+
+Install dependencies:
+Make sure Python 3.x is installed, then run:
+pip install -r requirements.txt
+
+Run the Jupyter Notebook:
+Open and run the provided notebook Customer_Segmentation_CLV.ipynb to reproduce the data analysis, clustering, modeling, and results.
+
+Results
+Users can reproduce segmentation and CLV prediction steps, review clustering quality, and understand customer value distribution.
+
+The provided code is extensible for other business datasets or deeper model tuning.
+
+Skills Demonstrated
+Data Cleaning & Preparation
+
+K-Means Clustering
+
+Predictive Modeling (CLV)
+
+Python, scikit-learn, pandas
+
+Analytical & Business Communication
+
+Contact:
+Hariharan Lakshmanan
+Email: harish872000@gmail.com
+
+Feel free to contribute, provide feedback, or fork this repository for your own business analytics projects!
